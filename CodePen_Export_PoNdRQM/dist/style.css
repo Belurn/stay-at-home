@@ -1,0 +1,47 @@
+main {
+  height: 550px;
+  width: 900px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.purple{
+  height: 50px;
+  width: 900px;
+  background: purple;
+}
+}
+.bluesmall {
+  height: 30px;
+  width: 80px;
+  background: cyan;
+}
+.bluebig {
+  height:30px;
+  width: 100px;
+  background:cyan;
+
+}
+.yellow {
+  height:500px;
+  width: 600px;
+  background: yellow;
+}
+.green {
+  height: 500px;
+  width:300px;
+  background:green;
+}
+.thosetwo {
+  display: flex;
+ 
+}
+.bothblue {
+  height:30px;
+  width:180px;
+  position: absolute;
+  top: -6px;
+}
+.both {
+  display:flex;
+  position: relative;
+}

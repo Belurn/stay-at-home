@@ -1,0 +1,12 @@
+form{
+  width: 370px;
+}
+legend {
+    padding: 3px 6px;
+}
+button {
+  display: block;
+  }
+.textareabig {
+  height:80px;
+}

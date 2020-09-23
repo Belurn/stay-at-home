@@ -1,0 +1,22 @@
+input {
+  display: block;
+  border: 5px solid green;
+  margin: 4px;
+  text-align: center;
+  border-radius: 10px;
+}
+label {
+  display: block;
+  text-transform: uppercase;
+  font-family: 'Kumbh Sans', sans-serif;
+  margin-left: 4px;
+  padding-top: 2px;
+}
+button {
+font-family: 'Kumbh Sans', sans-serif;
+margin: 6px 4px 4px 4px;
+background: green;
+text-align: center;
+padding-top: 2px;
+border-radius: 10px;
+}

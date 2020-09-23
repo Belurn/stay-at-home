@@ -1,0 +1,132 @@
+article {
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'PT Serif', serif;
+}
+.zacatek {
+  margin-top: -25px;
+  font-size: 50px;
+  
+}
+ul {
+  list-style-type: square;
+}
+img {
+  margin-top: 0px;
+  height: 350px;
+  width: 1300px;
+}
+.nadpis {
+  position: absolute;
+  margin-left:300px;
+  margin-top:-160px;
+}
+.container1 {
+  margin-left:300px;
+  margin-right:auto;
+}
+.header {
+  width:900px;
+  height:200px;
+  background: grey;
+  margin-left:auto;
+  margin-left: 270px;
+  margin-right:auto;
+  color:white;
+  font-size: 50px;
+  text-align: left;
+ 
+}
+.header::before {
+  content: '“';
+  font-size: 130px;
+  color:white;
+  }
+h3 {
+  margin-left: 300px;
+  margin-right: auto;
+  font-size: 23px;
+}
+h4 {
+  margin-left: 300px;
+  margin-right: auto;
+}
+h5 {
+  margin-left: 300px;
+  margin-right: auto;
+  margin-top: -16px
+}
+.text1{
+  margin-left: 300px;
+  margin-right: auto;
+  font-size:13px;
+}
+.header2 {
+  width:900px;
+  height:280px;
+  background: grey;
+  margin-left:auto;
+  margin-left: 270px;
+  margin-right:auto;
+  color:white;
+  font-size: 50px;
+  text-align: left;
+}
+.header2::before {
+  content: '“';
+  font-size: 130px;
+  color:white;
+}
+.bar {
+  width:900px;
+  height:3px;
+  background: black;
+  margin-left:auto;
+  margin-left:270px;
+  margin-right:auto;
+}
+.buttonleft {
+    width: 60px;
+    height: 120px;
+    background-color: grey;
+    border: none;
+    border-bottom-right-radius: 120px;
+    border-top-right-radius: 120px;
+    display: block;
+    position: fixed;
+    top: 50%;
+    bottom: 50%;
+    left:0;
+    right:0;
+    opacity: 0.5;
+    text-align:center;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0);
+}
+.buttonright {
+    width: 60px;
+    height: 120px;
+    background-color: grey;
+    border: none;
+    border-bottom-left-radius: 120px;
+    border-top-left-radius: 120px;
+    display: block;
+    position: fixed;
+    top: 50%;
+    bottom: 50%;
+    right:0%;
+    left:97%;
+    opacity: 0.5;
+    text-align:center;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0);
+}
+button:hover {
+  width: 120px;
+  height: 240px;
+  margin: 0;
+  font-size: 95px;
+  opacity:1;
+  color: rgba(0, 0, 0, 1);
+}

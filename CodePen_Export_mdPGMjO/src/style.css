@@ -1,0 +1,21 @@
+a {
+  display: block;
+  margin 10px;
+  font-family: 'Sen', sans-serif;
+  color: green;
+  text-decoration: underline;
+}
+a:hover {
+  color: lightblue;
+}
+a:visited {
+  color: purple;
+}
+
+a:active {
+  color: red;
+}
+.pages {
+  color: lime;
+   text-decoration: none;
+}

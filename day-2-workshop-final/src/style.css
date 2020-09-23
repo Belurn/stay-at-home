@@ -1,0 +1,41 @@
+div {
+  max-width: 900px;
+  max-height:1800px;
+}
+header {
+  width:900px;
+  height:150px;
+  background:aqua;
+}
+article {
+  display:flex;
+  height:1500px;
+  justify-content: space-between;
+  width:100%;
+}
+aside{
+  width:170px;
+}
+.orange{
+  background:orange;
+}
+.purple {
+  background:purple;
+}
+main{
+  width:500px;
+  background:red;
+}
+p {
+  height: 80px;
+  width:80px;
+  background:black;
+  position: absolute;
+  margin-top:1395px;
+  margin-left:590px;
+}
+footer {
+  width:900px;
+  height:150px;
+  background: blue;
+}

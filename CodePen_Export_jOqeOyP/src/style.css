@@ -1,0 +1,51 @@
+div {
+  display: flex;
+  height: 500px;
+  margin-top: 80px;
+  margin-left:100px;
+  margin-right:100px;
+  
+}
+
+header {
+  background: purple;
+  height: 70px;
+  width:900px;
+  align-items: center;
+  display: flex;
+  position: fixed;
+  top: 0;
+}
+
+a {
+  width: 100px;
+  height: 30px;
+  background: cyan;
+  margin: 10px;
+}
+
+.bigger {
+  width: 150px;
+}
+
+main {
+  background: yellow;
+  width:525px;
+
+}
+
+aside {
+  background: lime;
+  width: 175px;
+}
+footer{
+  height:80px;
+  width:700px;
+  background:grey;
+  margin-left:100px;
+  margin-right:100px;
+  margin-top: 10px;
+}
+.first {
+  margin-left:100px;
+}
